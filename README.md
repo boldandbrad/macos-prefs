@@ -1,4 +1,4 @@
-# macos-defaults
+# macos-prefs
 
 This repository is intended to serve as a comprehensive library for the macOS
 `defaults` tool and general knowledge base for programmatically altering
