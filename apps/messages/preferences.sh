@@ -3,7 +3,7 @@
 # Settings found in Messages Preferences
 
 ################################################################
-# general                                                      #
+# General                                                      #
 ################################################################
 
 # notify me about messages from unknown contacts: true
