@@ -12,6 +12,8 @@ defaults write -globalDomain AppleInterfaceStyle -string "Dark"
 #   "Dark"  (Dark Mode)
 #   "Auto"  (Automatically switch between Light and Dark depending on time of day)
 
+defaults write -g AppleInterfaceStyleSwitchesAutomatically -bool true
+
 # Accent color
 defaults write -globalDomain AppleAccentColor -int 4
 # default: NULL
